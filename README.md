@@ -1,2 +1,5 @@
 # Hello-World
-Web Programming
+
+My first repository on Github
+
+I love :coffee: :pizza:, and :dance:.
